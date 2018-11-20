@@ -1,0 +1,7 @@
+
+<a class="btn language-toogle" href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'_locale': 'ru'})) }}">
+    RU
+</a>
+<a class="btn language-toogle" href="{{ path(app.request.attributes.get('_route'), app.request.query.all|merge({'_locale': 'en'})) }}">
+    EN
+</a>

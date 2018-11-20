@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="menu.dashboard">
+                <source>menu.dashboard</source>
+                <target>Dashboard</target>
+            </trans-unit>
+            <trans-unit id="menu.customers">
+                <source>menu.customers</source>
+                <target>Customers</target>
+            </trans-unit>
+            <trans-unit id="menu.categories">
+               <source>menu.categories</source>
+               <target>Categories</target>
+            </trans-unit>
+            <trans-unit id="menu.users">
+                 <source>menu.users</source>
+                 <target>Users</target>
+            </trans-unit>
+            <trans-unit id="menu.products">
+                  <source>menu.products</source>
+                  <target>Products</target>
+            </trans-unit>
+            <trans-unit id="menu.orders">
+                  <source>menu.orders</source>
+                  <target>Orders</target>
+            </trans-unit>
+            <trans-unit id="menu.pages">
+                 <source>menu.pages</source>
+                 <target>Pages</target>
+            </trans-unit>
+            <trans-unit id="menu.settings">
+                   <source>menu.settings</source>
+                   <target>Settings</target>
+            </trans-unit>
+            <trans-unit id="menu.toggle_nav">
+                <source>menu.toggle_nav</source>
+                <target>Language</target>
+            </trans-unit>
+            <trans-unit id="users.table.title">
+                <source>users.table.title</source>
+                <target>Users</target>
+            </trans-unit>
+            <trans-unit id="users.first.name">
+                <source>users.first.name</source>
+                <target>First name</target>
+            </trans-unit>
+            <trans-unit id="users.last.name">
+                <source>users.last.name</source>
+                <target>Last name</target>
+            </trans-unit>
+            <trans-unit id="users.actions">
+                <source>users.actions</source>
+                <target>Actions</target>
+            </trans-unit>
+            <trans-unit id="users.no.record.found">
+                <source>users.no.record.found</source>
+                <target>no records found</target>
+            </trans-unit>
+            <trans-unit id="users.add">
+                <source>users.add</source>
+                <target>Add new user</target>
+            </trans-unit>
+            <trans-unit id="users.password">
+              <source>users.password</source>
+              <target>Password</target>
+            </trans-unit>
+            <trans-unit id="users.password.repeat">
+              <source>users.password.repeat</source>
+              <target>Confirm password</target>
+            </trans-unit>
+            <trans-unit id="users.login">
+              <source>users.login</source>
+              <target>Login</target>
+            </trans-unit>
+            <trans-unit id="users.delete">
+              <source>users.delete</source>
+              <target>Delete</target>
+            </trans-unit>
+            <trans-unit id="users.show">
+              <source>users.show</source>
+              <target>Show</target>
+            </trans-unit>
+            <trans-unit id="users.edit">
+              <source>users.edit</source>
+              <target>Edit</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
